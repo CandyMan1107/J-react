@@ -21,5 +21,6 @@
     "react-addons-css-transition-group": "^15.0.0",
     "react-addons-transition-group": "^15.0.0",
     "react-dom": "^15.0.0"
-  }
+  },
+  "main": "webpack.config.js"
 }
